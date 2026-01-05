@@ -1,13 +1,13 @@
 {
-  "name": "BYTE-MD",
-  "description": "BYTE-MD made for people on Earth",
+  "name": "Skrr skrr",
+  "description": "Strrbot made for people on Earth",
   "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/refs/heads/main/Images/XByte-logo.png",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here. Make sure it starts with Byte;;;, or get session id from here, https://session.talkdrove.com",
+      "description": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUFMTEFTM2NYd1lJbjRJMnBGRHR0c3VnaGYzeE1CWFNTZlZKeGpIeUZXbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVXJGUXhXOW9Qalc0NWhYVGVxRTVad3hsaUMwNm0raHVIRjFPeks1VkxCMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPRVk0SFU1R1lFMEZtbitmOXZRLzYzUCtlYW00RXgrU1V6ZjdPcmV3cjIwPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJOV3BkUkxrdUlRNXNicjd4ZWx2cHk0OFJndFJ5aU9PS0k1YkNyTkw2YVZjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IllDZ3cyQ0VIaHJuV3BxNjZ4SWl1SGdOMHB2K2UxWmtrRS9sSnBhYXVZR1U9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImR1a1BlOWtzSlRNRVo0Rk1hemp3dTNYSUlWV2ZuV2JXYVhrd1NyUmpGVFk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUhtMXBCNlVLTkhZQVJaS2lkV1Nld0xjN0NkcVpFQytwV3JNL1QrWW0zYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibW9udFh0TUtYSkNQL3RkQk4rTU9NVVp5bGFyQWVjdzNjOXV6bTQ3YTRobz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjRwUEJacm5sNUoxZmNWaDduSUVuY2dJQk1VZjdQU2l5Nmd1YWRtMVFIK3lDK1FvZVVWYXZuM2hXVjhscCtONHJObUpIREhsYUUydTdBVHdMOFZPMGh3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTQ3LCJhZHZTZWNyZXRLZXkiOiIrdzF3OHg0cW1nbHd3RElLNk9yeFhFQXRHYzBFYXJGZDd2OWgzUTFMVVdFPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJaRFFZWTgzMCIsIm1lIjp7ImlkIjoiMjc3OTk1MzY4MzI6MTRAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiU2tyciBza3JyIiwibGlkIjoiMTE0Mjc2ODMyNDE5ODk0OjE0QGxpZCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDT1BmNnJZREVLWE43TW9HR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiWmF6YnoxRjRzQ0VFbEphVlZ5N2YwbVR0Z2dxMUdiZUxkK0ExNXNRL2d3MD0iLCJhY2NvdW50U2lnbmF0dXJlIjoicE85WGIxa1JzV202bVoweGRjaCtXMWxPSG9INnhGZXB4N0hFemhUUjREVTdWckZBT3AxRDJVQlBrTzl0bngwakxSZGpkSkF1cEVRdFVIV3BWVkw1QlE9PSIsImRldmljZVNpZ25hdHVyZSI6Impqa0praDVkMG00MWpEVVlNWlBtTlhXYllCRE52NitOTjRTOUZRNkkydWE3STVKK2xndkgrZktMK0JpdFJnSTByQXZudG94bGlvM3hiV1Q5d3hQRmdRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjc3OTk1MzY4MzI6MTRAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCV1dzMjg5UmVMQWhCSlNXbFZjdTM5Sms3WUlLdFJtM2kzZmdOZWJFUDRNTiJ9fV0sInBsYXRmb3JtIjoic21iYSIsInJvdXRpbmdJbmZvIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0JJSUNBZ04ifSwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzY3NTgxMzYxLCJsYXN0UHJvcEhhc2giOiIxSzRoSDQiLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUN1NSJ9",
       "value":"",
       "required": true
       
@@ -31,7 +31,7 @@
       
     },
     "OWNER_NUMBER": {
-      "description": "OWNER_NUMBER with country code (e.g, 9230723xxxxx)",
+      "description": "2779 953 6832",
       "value":"923072380xxxx",
       "required": true
       
